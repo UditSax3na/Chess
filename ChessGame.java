@@ -1,5 +1,3 @@
-package bin;
-
 import java.util.Scanner;
 
 interface Board{
